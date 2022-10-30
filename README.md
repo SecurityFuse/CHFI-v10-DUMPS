@@ -14,9 +14,9 @@ CHFIv10 preparation exam 600+ question to prepare for exam.
 
 CHFI real exam questions.
 
-you can get **DISCOUNT** by using below link for the month of **SEPT/OCT**. limited time only
+you can get **DISCOUNT** by using below link for the month of **OCT/NOV**. limited time only
 
-https://www.udemy.com/course/forensic-investigator-practice-exam-2/?couponCode=LIMITED25
+https://www.udemy.com/course/forensic-investigator-practice-exam-2/?couponCode=LIMITED50FORNOV
 
 tags:
 
