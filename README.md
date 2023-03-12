@@ -6,7 +6,7 @@ CHFI v10 practice questions preparation test
 # CHFI-v10-Dumps
 # Eccouncil 312-49v10 Exam Questions
 CHFIv10 dumps
-
+CHFI v10 Dumps
 Certified hacking forensic investigator v10 practice exam
 
 CHFI v10 practice exam 
@@ -16,7 +16,7 @@ CHFI real exam questions.
 
 you can get **DISCOUNT** by using below link for the month of limited time only
 
-https://www.udemy.com/course/computer-forensic-v10/?couponCode=LIMITED
+https://www.udemy.com/course/computer-forensic-v10/?couponCode=LIMITED_DISC
 
 tags:
 
