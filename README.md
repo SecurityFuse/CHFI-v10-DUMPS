@@ -17,7 +17,7 @@ CHFI real exam questions.
 
 I just found its offering discount. you can get **DISCOUNT** by using below link.
 
-https://www.udemy.com/course/computer-forensic-investigator-v10-practice/?couponCode=LIMITEDFORSEPT
+**https://www.udemy.com/course/computer-forensic-investigator-v10-practice/?couponCode=LIMITEDFORNOV**
 
 tags:
 
